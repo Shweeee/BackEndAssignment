@@ -16,7 +16,3 @@ This repository contains the solution for the backend assignment project. It inc
 - [MongoDB](https://www.mongodb.com/)
 - A code editor like [Visual Studio Code](https://code.visualstudio.com/)
 
-### Steps to Run the Project Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
